@@ -1,0 +1,16 @@
+Info: DeliveryProcess:LSD: 121 mini seconds publishing element
+Info: DeliveryProcess:LSD: 63 mini seconds publishing process specific layout data
+Info: Task:especificar_valor: 9 mini seconds publishing element
+Info: TaskDescriptor:especificar_valor: 9 mini seconds publishing element
+Info: Task:criar_mapa_de_tarefas: 7 mini seconds publishing element
+Info: TaskDescriptor:criar_mapa_de_tarefas: 7 mini seconds publishing element
+Info: Task:produzir_continuamente: 6 mini seconds publishing element
+Info: TaskDescriptor:produzir_continuamente: 7 mini seconds publishing element
+Info: Task:producao_solicitada: 5 mini seconds publishing element
+Info: TaskDescriptor:producao_solicitada: 6 mini seconds publishing element
+Info: Task:buscar_a_perfeicao: 5 mini seconds publishing element
+Info: TaskDescriptor:buscar_a_perfeicao: 7 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 6 mini seconds publishing element
+Info: CustomCategory:Tasks: 6 mini seconds publishing element
+Info: CustomCategory:Processes: 4 mini seconds publishing element
+Info: : Publishing time: 0 minutes 0 seconds
